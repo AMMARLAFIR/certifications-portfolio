@@ -1,7 +1,7 @@
 # 🎓 Ammar Lafir – Certifications & Qualifications
 
 Welcome to my repository of academic achievements and professional certifications.  
-This portfolio showcases my journey in **IT support, networking, operating systems, office productivity, digital marketing, and educational technology**.
+This portfolio showcases my journey in **AI, IT support, networking, operating systems, office productivity, digital marketing, educational technology,AI in Education**.
 
 ---
 
