@@ -34,10 +34,10 @@ This portfolio showcases my journey in **IT support, networking, operating syste
     [![MOS Word](microsoft/MOS-Word.png)](microsoft/MOS-Word.png)
 
 - **MD-100: Support the Windows Client Environment**  
-  [![MD-100 Windows Client](microsoft/Achievements-MD-100 -Windows.png)](microsoft/Achievements-MD-100 -Windows.png)
+  [![MD-100 Windows Client](microsoft/Achievements-MD-100-Windows.png)](microsoft/Achievements-MD-100 -Windows.png)
 
 - **MD-100: Troubleshoot the Windows Client OS and Apps**  
-  [![MD-100 Windows OS & Apps](microsoft/Achievements-MD-100 WINDOWS_OS-and-APP.png)](microsoft/Achievements-MD-100 WINDOWS_OS-and-APP.png)
+  [![MD-100 Windows OS & Apps](microsoft/Achievements-MD-100-WINDOWS_OS-and-APP.png)](microsoft/Achievements-MD-100 WINDOWS_OS-and-APP.png)
 
 - **Empower Educators to Explore the Potential of Artificial Intelligence**  
   [![AI for Educators](microsoft/AI-for-EDUCATOR.jpg)](microsoft/AI-for-EDUCATOR.jpg)
@@ -81,9 +81,15 @@ This portfolio showcases my journey in **IT support, networking, operating syste
 ## 📂 Repository Structure
 
 📁 certifications-portfolio
+
 ┣ 📄 README.md
+
 ┣ 📁 academic/
+
 ┣ 📁 microsoft/
+
 ┣ 📁 cisco/
+
 ┣ 📁 google-coursera/
+
 ┗ 📁 university/
