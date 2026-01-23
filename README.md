@@ -34,10 +34,10 @@ This portfolio showcases my journey in **IT support, networking, operating syste
     [![MOS Word](microsoft/MOS-Word.png)](microsoft/MOS-Word.png)
 
 - **MD-100: Support the Windows Client Environment**  
-  [![MD-100 Windows Client](microsoft/Achievements-MD-100-Windows.png)](microsoft/Achievements-MD-100 -Windows.png)
+  [![MD-100 Windows Client](microsoft/Achievements-MD-100-Windows.png)](microsoft/Achievements-MD-100-Windows.png)
 
 - **MD-100: Troubleshoot the Windows Client OS and Apps**  
-  [![MD-100 Windows OS & Apps](microsoft/Achievements-MD-100-WINDOWS_OS-and-APP.png)](microsoft/Achievements-MD-100 WINDOWS_OS-and-APP.png)
+  [![MD-100 Windows OS & Apps](microsoft/Achievements-MD-100-WINDOWS_OS-and-APP.png)](microsoft/Achievements-MD-100-WINDOWS_OS-and-APP.png)
 
 - **Empower Educators to Explore the Potential of Artificial Intelligence**  
   [![AI for Educators](microsoft/AI-for-EDUCATOR.jpg)](microsoft/AI-for-EDUCATOR.jpg)
@@ -50,12 +50,12 @@ This portfolio showcases my journey in **IT support, networking, operating syste
 ![OS Support](https://img.shields.io/badge/Operating_Systems-Support-lightblue)
 
 - **IT Customer Support Basics**  
-  [![IT Support Basics 1](cisco/IT-SUP (1).png)](cisco/IT-SUP (1).png)  
-  [![IT Support Basics 2](cisco/IT-SUP (2).png)](cisco/IT-SUP (2).png)
+  [![IT Support Basics 1](cisco/IT-SUP (1).png)](cisco/IT-SUP(1).png)  
+  [![IT Support Basics 2](cisco/IT-SUP (2).png)](cisco/IT-SUP(2).png)
 
 - **Operating Systems Support**  
-  [![OS Support 1](cisco/OS-SUP (1).png)](cisco/OS-SUP (1).png)  
-  [![OS Support 2](cisco/OS-SUP (2).png)](cisco/OS-SUP (2).png)
+  [![OS Support 1](cisco/OS-SUP (1).png)](cisco/OS-SUP(1).png)  
+  [![OS Support 2](cisco/OS-SUP (2).png)](cisco/OS-SUP(2).png)
 
 ---
 
