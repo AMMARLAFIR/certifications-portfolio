@@ -56,7 +56,9 @@ This portfolio showcases my journey in **AI, IT support, networking, operating s
 - **Operating Systems Support**  
   [![OS Support 1](cisco/OS-SUP(1).png)](cisco/OS-SUP(1).png)  
   [![OS Support 2](cisco/OS-SUP(2).png)](cisco/OS-SUP(2).png)
-
+- **Security and Connectivity Support**  
+  [![OS Support 1](cisco/security_and_connectivity_details.png)](cisco/security_and_connectivity_details.png)  
+  [![OS Support 2](cisco/security_and_connectivity.png)](cisco/security_and_connectivity.png)
 ---
 
 ## 📊 Professional Certifications – Google & Coursera  
