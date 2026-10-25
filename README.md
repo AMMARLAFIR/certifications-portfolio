@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Ammar%20Lafir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Certifications%20%26%20Qualifications&descAlignY=58&descSize=20" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=240&section=header&text=Ammar%20Lafir&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Certifications%20and%20Qualifications&descSize=20&descAlignY=62" width="100%" alt="Ammar Lafir - Certifications and Qualifications" />
 
 ### 🎓 Computer Hardware • IT Support • Networking • Operating Systems • Office Productivity • Digital Marketing • EdTech
 
