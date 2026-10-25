@@ -33,7 +33,7 @@
 </div>
 
 Welcome to my repository of academic achievements and professional certifications.
-This portfolio showcases my journey in **Artificial Intelligence, IT Support, Networking, Operating Systems, Office Productivity, Digital Marketing, Educational Technology and AI in Education**.
+This portfolio showcases my journey in **Computer Hardware, IT Support, Networking, Operating Systems, Office Productivity, Digital Marketing, Educational Technology and AI in Education**.
 
 <div align="center">
 
